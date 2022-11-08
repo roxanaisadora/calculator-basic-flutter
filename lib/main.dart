@@ -382,13 +382,13 @@ class _MyHomePageState extends State<MyHomePage> {
           // height: 50,
           width: 250,
           child: Image.network(
-              'https://mir-s3-cdn-cf.behance.net/projects/404/c697f587154819.Y3JvcCwxMzc2LDEwNzcsMjY1LDA.png'),
+              'https://uploads.turbologo.com/uploads/design/hq_preview_image/933879/draw_svg20210507-22909-cds2tp.svg.png'),
         ),
         actions: [
           SizedBox(
             width: 50,
             child: Image.network(
-                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV_PD-jVgVMizI7O-128DiJMKu7KRbJzSyWn42zHBj-Ujn5J579kVM7Ac5Wq54rHxkCHc&usqp=CAU'),
+                'https://img.freepik.com/vector-premium/calculadora-electronica-sonriente-dibujos-animados_253349-687.jpg'),
           )
         ],
       ),
